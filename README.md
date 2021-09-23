@@ -8,10 +8,10 @@
 <h2> About Me <img src = "https://c.tenor.com/G465PtI9pbYAAAAC/critical-ops-we-do-a-little-trolling.gif" width = 40px></h2>
 <br>
 <br>
-<img width="30%" align="right" src="https://i.ibb.co/yqP7GyJ/Screenshot-2021-09-22-at-20-11-02-surpirsed-Pikachu.png" />
+<img width="42%" align="right" src="https://i.ibb.co/yqP7GyJ/Screenshot-2021-09-22-at-20-11-02-surpirsed-Pikachu.png" />
 
 
-- 🌱 I’m currently learning OPSEC,DFIR,Data Engineering 
+- 🌱 I’m currently learning OPSEC,DFIR,Pentesting
 
 - 💬 Talk to me about OSINT, OPSEC, DFIR, Social Engineering
 
