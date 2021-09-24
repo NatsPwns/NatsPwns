@@ -1,11 +1,11 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=NatsPwns.NatsPwns)
 
 </p>
-<div size='20px'> Hi! My name is Nat.  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Just a girl hacking her way through life.</h1>
+<div size='30px'> Hi! My name is Nat.  <img src = "https://emoji.gg/assets/emoji/wavegif_1860.gif" width = 30px> Just a girl hacking her way through life.</h1>
 <p align='center'>
 </div>
 
-<h2> About Me <img src = "https://c.tenor.com/G465PtI9pbYAAAAC/critical-ops-we-do-a-little-trolling.gif" width = 40px></h2>
+<h2> About Me  <img src = "https://c.tenor.com/G465PtI9pbYAAAAC/critical-ops-we-do-a-little-trolling.gif" width = 90px></h2>
 <br>
 <br>
 <img width="42%" align="right" src="https://i.ibb.co/yqP7GyJ/Screenshot-2021-09-22-at-20-11-02-surpirsed-Pikachu.png" />
@@ -13,7 +13,9 @@
 
 - 🌱 I’m currently learning OPSEC,DFIR,Pentesting
 
-- 💬 Talk to me about OSINT, OPSEC, DFIR, Social Engineering
+- 💬 Talk to me about OSINT, OPSEC, DFIR, Social Engineering, lulz and memes
+
+- 📫 How to reach me: if I can be of any help, just ping me on Twitter 😃 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/NatsPwns?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
