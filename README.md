@@ -4,17 +4,13 @@
 <div size='30px'> Hi! My name is Nat. Just a girl hacking her way through life.</h1>
 <p align='center'>
 </div>
-<br>
 <h2> About Me </h2>
 <br>
-
-
 - 🌱 I’m currently learning Python, Kotlin and Flutter
 
 - 💬 Talk to me about OSINT, OPSEC, SocEng, and mobile apps
 
 - 📫 How to reach me: Twitter
-
 
 <h2> Connect with me </h2>
 <a href = 'https://www.twitter.com/NatsPwns'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
