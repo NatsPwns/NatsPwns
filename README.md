@@ -6,6 +6,7 @@
 </div>
 <h2> About Me </h2>
 <br>
+
 - 🌱 I’m currently learning Python, Kotlin and Flutter
 
 - 💬 Talk to me about OSINT, OPSEC, SocEng, and mobile apps
