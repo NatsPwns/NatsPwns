@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=NatsPwns.NatsPwns)
 
 </p>
-<div size='30px'> Hi! My name is Nat.  <img src = "https://emoji.gg/assets/emoji/wavegif_1860.gif" width = 30px> Just a girl hacking her way through life.</h1>
+<div size='30px'> Hi! My name is Nat.  <img src = "https://emoji.gg/assets/emoji/wavegif_1860.gif" width = 10px> Just a girl hacking her way through life.</h1>
 <p align='center'>
 </div>
 
