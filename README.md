@@ -3,10 +3,10 @@
 
 <div class="bgimg">
  
-    <p>Logo</p>
+ 
   </div>
   
-    <h1>COMING SOON</h1>
+COMING SOON
    
   </div>
 </div>
